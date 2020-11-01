@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DautoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
@@ -25,3 +26,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# D-Automotive
+An Angular app
+
+# How to run this project
+First clone this repository. Then open CMD terminal where you clone it and run command "npm install" and make sure your internet is working after installation
+
+In the project directory, you can run:
+npm start
+Runs the app in the development mode.
+Open http://localhost:4200 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+>>>>>>> ef0af9a98562c3d90699327df1ba8f2598bca0c9
